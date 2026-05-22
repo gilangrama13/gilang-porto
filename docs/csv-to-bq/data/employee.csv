@@ -1,0 +1,51 @@
+id,first_name,age,city,salary,is_active
+1,James,34,New York,75000.0,true
+2,Mary,29,Los Angeles,68000.5,true
+3,John,42,Chicago,95000.0,false
+4,Patricia,38,Houston,88500.0,true
+5,Robert,45,Phoenix,105000.0,true
+6,Jennifer,31,Philadelphia,72000.0,false
+7,Michael,27,San Antonio,61000.0,true
+8,Linda,50,San Diego,112000.5,true
+9,William,36,Dallas,81000.0,false
+10,Elizabeth,28,San Jose,98000.0,true
+11,David,41,Austin,101000.0,true
+12,Barbara,33,Jacksonville,74000.0,false
+13,Richard,39,Fort Worth,89000.0,true
+14,Susan,47,Columbus,93000.5,true
+15,Joseph,26,Charlotte,62000.0,false
+16,Jessica,30,San Francisco,115000.0,true
+17,Thomas,52,Indianapolis,108000.0,true
+18,Sarah,24,Seattle,78000.0,true
+19,Charles,44,Denver,91000.0,false
+20,Karen,37,Washington,96000.0,true
+21,Christopher,29,Boston,85000.0,true
+22,Nancy,48,El Paso,88000.0,false
+23,Daniel,32,Nashville,76000.5,true
+24,Lisa,35,Detroit,79000.0,true
+25,Matthew,40,Oklahoma City,84000.0,false
+26,Betty,55,Portland,102000.0,true
+27,Anthony,28,Las Vegas,69000.0,true
+28,Margaret,43,Memphis,87000.0,false
+29,Mark,36,Louisville,82000.0,true
+30,Sandra,31,Baltimore,77000.0,true
+31,Donald,49,Milwaukee,95000.0,true
+32,Ashley,25,Albuquerque,59000.0,false
+33,Steven,38,Tucson,81000.0,true
+34,Kimberly,42,Fresno,89000.5,true
+35,Paul,27,Mesa,64000.0,false
+36,Emily,34,Sacramento,91000.0,true
+37,Andrew,46,Atlanta,104000.0,true
+38,Donna,39,Kansas City,86000.0,false
+39,Joshua,30,Colorado Springs,73000.0,true
+40,Michelle,41,Miami,94000.0,true
+41,Kenneth,53,Raleigh,110000.0,true
+42,Carol,28,Omaha,67000.0,false
+43,Kevin,33,Long Beach,85000.0,true
+44,Amanda,37,Virginia Beach,88000.0,true
+45,Brian,45,Oakland,99000.5,false
+46,Melissa,29,Minneapolis,76000.0,true
+47,George,50,Tulsa,106000.0,true
+48,Deborah,32,Arlington,80000.0,true
+49,Edward,40,New Orleans,84000.0,false
+50,Stephanie,26,Wichita,61000.0,true

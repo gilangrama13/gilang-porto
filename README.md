@@ -1,7 +1,7 @@
 # Gilang Ramadhan - Personal CV Website
 This repository contains the source code for my personal portfolio and CV landing page. It highlights my experience as a Senior Data Engineer, my technical skills, and my professional background.
 ## Live Demo
-(You can add your GitHub Pages link here once deployed, e.g., https://yourusername.github.io/gilang-cv)
+Please visit this [link](https://gilangrama13.github.io/gilang-porto/).
 - Built With
 - HTML5
 - Tailwind CSS (via CDN for rapid styling)
@@ -19,4 +19,4 @@ This repository contains the source code for my personal portfolio and CV landin
 - Wait a minute or two, and your site will be live!
 ## Contact
 - Email: work.gilangramadhan@gmail.com
-- LinkedIn: (Add your LinkedIn link here)
+- [LinkedIn](https://www.linkedin.com/in/gilangrama13/)
